@@ -6,9 +6,9 @@
 - 🌱 Learning latest dev and test trends and put'em to practice
 - 👯 Happy to collaborate on any open source projects
 - 📫 Reach me: 
-  - Personal Blog - <a href="https://www.stanleyeric.com" target="_blank">stanleyeric.com</a> 📹
-  - Codepen.io - <a href="https://codepen.io/eric-stanley01" target="_blank"> Codepen</a> 🏓
-  - LinkedIn - <a href="https://www.linkedin.com/in/eric-stanley-6453552a/" target="_blank">LinkedIn</a> 💼
+  - Personal Blog - <a href="https://www.stanleyeric.com">stanleyeric.com</a> 📹
+  - Useful Code snippets - <a href="https://codepen.io/eric-stanley01"> Codepen</a> 🏓
+  - Professional Profile - <a href="https://www.linkedin.com/in/eric-stanley-6453552a/">LinkedIn</a> 💼
 
 <!--
 **eric-stanley/eric-stanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
