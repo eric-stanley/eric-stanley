@@ -5,7 +5,7 @@
 - 🔭 Quality assurance engineer in a private company
 - 🌱 Learning latest dev and test trends and put'em to practice
 - 👯 Happy to collaborate on any open source projects
-- 📫 Reach me: 
+## Find me around the web 🌎:
   - Personal Blog - <a href="https://www.stanleyeric.com">stanleyeric.com</a> 📹
   - Useful Code snippets - <a href="https://codepen.io/eric-stanley01"> Codepen</a> 🏓
   - Professional Profile - <a href="https://www.linkedin.com/in/eric-stanley-6453552a/">LinkedIn</a> 💼
