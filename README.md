@@ -1,4 +1,4 @@
-# Hi, I am Eric 👋
+<!-- # Hi, I am Eric 👋 -->
 
 <img src="https://github.com/eric-stanley/eric-stanley/blob/master/banner-01.jpg" alt="Eric Stanley profile">
 
