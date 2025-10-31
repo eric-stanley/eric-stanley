@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com?user=eric-stanley&theme=react&hide_border=false) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-stanley&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=eric-stanley&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=eric-stanley&theme=react&hide_border=false&include_all_commits=false&count_private=false) </br>
+![](https://github-readme-streak-stats.herokuapp.com?user=eric-stanley&theme=react&hide_border=false) </br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-stanley&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </br>
+![](https://github-profile-trophy.vercel.app/?username=eric-stanley&theme=darkhub&no-frame=false&no-bg=true&margin-w=4) </br>
