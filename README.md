@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=eric-stanley&theme=react&hide_border=false&include_all_commits=false&count_private=false) <br>
+![](https://github-readme-streak-stats.herokuapp.com/?username=eric-stanley&theme=react&hide_border=false) <br>
