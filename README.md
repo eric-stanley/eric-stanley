@@ -1,6 +1,6 @@
 <!-- # Hi, I am Eric 👋 -->
 
-<img src="https://github.com/eric-stanley/eric-stanley/blob/master/matrix.gif" alt="Eric Stanley profile">
+<img src="https://github.com/eric-stanley/eric-stanley/blob/master/banner.jpg" alt="Eric Stanley profile">
 
 - 🔭 Quality assurance engineer in a private company
 - 🌱 Learning latest dev and test trends and put'em to practice
